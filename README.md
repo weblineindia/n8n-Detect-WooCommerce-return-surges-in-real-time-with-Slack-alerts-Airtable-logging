@@ -1,10 +1,5 @@
 # Real-Time WooCommerce Return Surge Detection with Slack Alerts & Airtable Logging
 
-## 1.1 Title
-**Real-Time WooCommerce Return Monitoring with Slack Alerts and Airtable Logging**
-
----
-
 ## 1.2 Summary (TL;DR)
 
 This n8n workflow continuously monitors WooCommerce refund activity to detect unusual spikes in product returns at the SKU level. It compares return volumes across rolling 24-hour windows, alerts teams in Slack when defined thresholds are exceeded, and logs all detected events into Airtable for tracking and analysis.
